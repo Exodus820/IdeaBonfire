@@ -4,9 +4,12 @@ You can use the [editor on GitHub](https://github.com/Exodus820/IdeaBonfire/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-###Cat
+### Cat
 
-![Cat](IdeaBonfire/Assets/IMG_1757.HEIC.JPG)
+.. image:: IdeaBonfire/Assets/IMG_1757.HEIC.JPG
+        :width: 600px
+        :alt: Framework
+        :align: center
 
 ### Markdown
 
