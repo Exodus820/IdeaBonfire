@@ -6,10 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Cat
 
-.. image:: IdeaBonfire/Assets/IMG_1757.HEIC.JPG
-        :width: 600px
-        :alt: Framework
-        :align: center
+![Image](IdeaBonfire/Assets/IMG_1757.HEIC.JPG)
+
 
 ### Markdown
 
