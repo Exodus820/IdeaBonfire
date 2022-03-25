@@ -14,5 +14,5 @@
 
 <img src="./Assets/sheet.jpg" width="300">
 
-<img src="./Assets/swear.jpg" width="300">
+<img src="./Assets/swear.png" width="300">
 
