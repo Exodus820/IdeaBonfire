@@ -5,8 +5,9 @@ You can use the [editor on GitHub](https://github.com/Exodus820/IdeaBonfire/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Cat
-
-![Image](IdeaBonfire/Assets/IMG_1757.HEIC.JPG)
+通报批评
+![Image](IdeaBonfire/Assets/1757.jpg)
+![Image](IdeaBonfire/Assets/Dung.jpg)
 
 
 ### Markdown
