@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Cat
 通报批评
-![Image](IdeaBonfire/Assets/1757.jpg)
-![Image](IdeaBonfire/Assets/Dung.jpg)
+![Image](/Assets/1757.jpg)
+![Image](/Assets/Dung.jpg)
 
 
 ### Markdown
